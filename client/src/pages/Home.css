@@ -1,0 +1,38 @@
+.PropertyManagerHome, .OwnerHome, .TenantHome {
+    display: grid;
+    row-gap: 25px;
+}
+
+.dash-btn {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.manage-btn {
+    background-color: #009879;
+}
+
+.dash-btn-logout{
+    background-color: #f44336;
+}
+
+.dash-btn-login{
+    background-color: #008cba;
+}
+
+.select-account-btn {
+    background-color: #4CAF50;
+}
+
+.SelectAccount {
+    display: grid;
+    row-gap: 25px;
+}
